@@ -1,8 +1,16 @@
+# Fichiers texte
+*.txt
+
+# Images
+*.jpg
+*.png
+
+# Dossiers et fichiers sensibles
 GitHub 2FA/
 Compte GitHub
 INSTRUCTIONS.txt
-*.jpg
-*.png
+
+# Fichiers personnels avec caractères spéciaux
 !# Accès*
 !# Créer*
 !# Mots*
