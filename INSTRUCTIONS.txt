@@ -1,0 +1,11 @@
+J'ai 11 fichiers sources :
+
+commun.typ — styles et fonctions partagés (à placer dans le même dossier)
+01_introduction.typ → 10_workflow_memos.typ — les 10 fascicules.
+
+
+Pour compiler un fascicule sur ton Fedora 43 : typst compile 01_introduction.typ 
+— ou typst watch 01_introduction.typ pour la prévisualisation live.
+
+
+
